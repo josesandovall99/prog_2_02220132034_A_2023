@@ -5,3 +5,4 @@
  TALLER 3 (CONDICIONALES/BUCLES/ARRAYS) : https://github.com/josesandovall99/TALLER3_BUCLES-CONDICIONALES-ARRAYS.git
 # -----------------2 CORTE---------------------------------------------------
  TALLER (CLASES Y ATRIBUTOS): https://github.com/josesandovall99/atributos.git
+ PREVIO CORREGIDO: https://github.com/josesandovall99/PrevioCorr.git

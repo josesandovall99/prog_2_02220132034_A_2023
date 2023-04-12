@@ -6,3 +6,4 @@
 # -----------------2 CORTE---------------------------------------------------
 # TALLER (CLASES Y ATRIBUTOS): https://github.com/josesandovall99/atributos.git
 # PREVIO CORREGIDO: https://github.com/josesandovall99/PrevioCorr.git
+# ACTIVIDAD AGREGAR Y LISTAR : https://github.com/josesandovall99/Menu_CineSupermercado.git

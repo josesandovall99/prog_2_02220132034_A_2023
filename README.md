@@ -9,5 +9,6 @@ PREVIO CORREGIDO: https://github.com/josesandovall99/PrevioCorr.git
 ACTIVIDAD AGREGAR Y LISTAR : https://github.com/josesandovall99/Menu_CineSupermercado.git
 # ______Tercer Corte___________
 # correxion previo: https://github.com/josesandovall99/PrevioCorregido.git
+# ejercicio en clase : https://github.com/josesandovall99/ActividadEnClase.git
 
 

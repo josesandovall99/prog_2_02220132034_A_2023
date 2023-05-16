@@ -10,5 +10,6 @@ ACTIVIDAD AGREGAR Y LISTAR : https://github.com/josesandovall99/Menu_CineSuperme
 # ______Tercer Corte___________
 # correxion previo: https://github.com/josesandovall99/PrevioCorregido.git
 # ejercicio en clase : https://github.com/josesandovall99/ActividadEnClase.git
+# Actividad Try Catch : https://github.com/josesandovall99/ActividadTryCatch.git
 
 
